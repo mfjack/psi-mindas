@@ -7,11 +7,11 @@ const Home = () => {
 			<div className='flex flex-col justify-center items-center'>
 				<div className='flex items-center gap-5 md:gap-10'>
 					<Image
-						className='rounded-full'
-						src='/profile-mindas.png'
+						className='rounded-full lg:w-[140px] lg:h-[140px]'
+						src='/gatinha.jpeg'
 						alt='Jéssica Mindas'
-						width={110}
-						height={110}
+						width={80}
+						height={80}
 					/>
 
 					<div className='flex flex-col items-center'>
